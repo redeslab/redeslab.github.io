@@ -12,7 +12,7 @@ html,body{
 
 .download{
 width: 415px;
-height: 316px;
+height: 280px;
 background-color: white;
 border-radius: 18px;
 display: flex;
@@ -37,8 +37,18 @@ flex-direction: column;
     height: 155px;
     margin-top: 15px;
 }
+.download div{
+    display: flex;
+    flex-direction: row;
+
+}
+.download .btn_group{
+    display: flex;
+    flex-direction: column;
+}
 .download .btn{
     width: 155px;
+    display: flex;
     height: 43px;
     margin-top: 15px;
     margin-left: 9px;
