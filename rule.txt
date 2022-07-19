@@ -2490,3 +2490,4 @@
 \.gvt1.com\.
 \.linecorp.com\.
 \.tiktokv.com\.
+\.igamecj.com\.
