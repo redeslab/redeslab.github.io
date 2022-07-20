@@ -2491,3 +2491,4 @@
 \.linecorp.com\.
 \.tiktokv.com\.
 \.igamecj.com\.
+\.google\.
