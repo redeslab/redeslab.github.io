@@ -2492,3 +2492,4 @@
 \.tiktokv.com\.
 \.igamecj.com\.
 \.google\.
+\.tiktokv.com\.
