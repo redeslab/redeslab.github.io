@@ -1,26 +1,26 @@
 [
         {
                 "id": "com.tbd.products.vip.30Days",
-                "price": 25,
-                "sum": 25,
+                "price": 4,
+                "sum": 4,
                 "tittle": "1 Month"
         },
         {
                 "id": "com.tbd.products.vip.60Days",
-                "price": 20,
-                "sum": 60,
+                "price": 3.2,
+                "sum": 9.6,
                 "tittle": "3 Months"
         },
         {
                 "id": "com.tbd.products.vip.120Days",
-                "price": 16,
-                "sum": 96,
+                "price": 2.56,
+                "sum": 15.36,
                 "tittle": "6 Month"
         },
         {
                 "id": "com.tbd.products.vip.360Days",
-                "price": 12.8,
-                "sum": 153.6,
+                "price": 2.05,
+                "sum": 24.6,
                 "tittle": "1 Year"
         }
 ]
