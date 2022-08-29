@@ -1,1 +1,1 @@
-{"Ver":10000,"VerName":"1.0.0","Url":"https://redeslab.github.io/simplevpn.apk","Des":["1.优化用户体验"]}
+{"Ver":10082,"VerName":"1.8.2","Url":"https://redeslab.github.io/simplevpn.apk","Des":["1.优化用户体验"]}
