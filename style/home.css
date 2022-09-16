@@ -12,7 +12,7 @@ html,body{
 
 .download{
 width: 415px;
-height: 280px;
+height: 320px;
 background-color: white;
 border-radius: 18px;
 display: flex;
@@ -33,8 +33,8 @@ flex-direction: column;
 
 .download .qr{
     display: flex;
-    width: 155px;
-    height: 155px;
+    width: 215px;
+    height: 215px;
     margin-top: 15px;
 }
 .download div{
